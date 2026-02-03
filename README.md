@@ -1,5 +1,7 @@
 # To install
 
+Make sure `wget` is installed.
+
 ```sh
 wget -O- https://github.com/dupeiran001/qemu-8.2.2-static/raw/refs/heads/main/install.sh | sudo bash
 ```
